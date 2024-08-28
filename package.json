@@ -1,0 +1,16 @@
+{
+  "name": "kakarot-stablecoins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Sweta Shaw",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "network": "kakarot-sepolia",
+    "address": "0x1B4C0bc8703D3af59322849bE01559fdb920c904",
+    "name": "USDC",
+    "symbol": "USDC"
+  },
+  {
+    "network": "kakarot-sepolia",
+    "address": "0x2BF1004D9e80ca087BD1e089d75bc8c471995aC1",
+    "name": "USDT",
+    "symbol": "USDT"
+  }
+]
